@@ -1,0 +1,76 @@
+<% layout("/layouts/boilerplate") %>
+
+<body>
+  <h3>EDIT YOUR LISTING</h3>
+  <form method="POST" action="/listings/<%= listing._id %>?_method=PUT">
+    <div>
+      <label for="listing[title]">Title :</label>
+      <input
+        name="listing[title]"
+        value="<%= listing.title %>"
+        type="text"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+    <div>
+      <label for="listing[description]">Description :</label>
+      <textarea name="listing[description]" class="form-input" required>
+<%= listing.description %></textarea
+      >
+      <br />
+      <br />
+    </div>
+    <div>
+      <label for="listing[image][url]">Image URL :</label>
+      <input
+        name="listing[image][url]"
+        value="<%= listing.image.url %>"
+        type="text"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+    <div>
+      <label for="listing[price]">Price :</label>
+      <input
+        name="listing[price]"
+        value="<%= listing.price %>"
+        type="number"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+    <div>
+      <label for="listing[location]">Location :</label>
+      <input
+        name="listing[location]"
+        value="<%= listing.location %>"
+        type="text"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+    <div>
+      <label for="listing[country]">Country :</label>
+      <input
+        name="listing[country]"
+        value="<%= listing.country %>"
+        type="text"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+    <button class="btn btn-success form-input">SUBMIT</button>
+  </form>
+</body>

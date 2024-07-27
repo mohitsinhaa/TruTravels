@@ -1,0 +1,83 @@
+<% layout("/layouts/boilerplate") %>
+
+<body>
+  <h3>CREATE A NEW LISTING</h3>
+  <br />
+  <form method="POST" action="/listings">
+    <div>
+      <label for="title">Title :</label>
+      <input
+        name="listing[title]"
+        placeholder="Enter Title"
+        type="text"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+
+    <div>
+      <label for="description">Description :</label>
+      <textarea
+        name="listing[description]"
+        placeholder="Enter Description"
+        class="form-input"
+        required
+      ></textarea
+      ><br />
+      <br />
+    </div>
+
+    <div>
+      <label for="image">Image URL :</label>
+      <input
+        name="listing[image][url]"
+        placeholder="Enter Image URL"
+        type="text"
+        class="form-input"
+      />
+      <br />
+      <br />
+    </div>
+
+    <div>
+      <label for="price">Price :</label>
+      <input
+        name="listing[price]"
+        placeholder="Enter price"
+        type="number"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+    <div>
+      <label for="location">Location :</label>
+      <input
+        name="listing[location]"
+        placeholder="Enter location"
+        type="text"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+    <div>
+      <label for="country">Country :</label>
+      <input
+        name="listing[country]"
+        placeholder="Enter country"
+        type="text"
+        class="form-input"
+        required
+      />
+      <br />
+      <br />
+    </div>
+    <button class="btn btn-success form-input addbtn">ADD</button>
+  </form>
+  <a href="/listings" class="btn btn-dark form-input">BACK</a>
+</body>
