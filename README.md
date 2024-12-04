@@ -36,7 +36,7 @@ The StockXpert project has been deployed using Render, connected with MongoDB At
 
 * Live Application: https://trutravels.onrender.com/
 ## Authors ✍️
-@mohitsinhaa __
+@mohitsinhaa <br />
 This StockXpert project showcases my proficiency in full-stack web development, from creating an engaging front-end to managing the back-end and database components. It allows users to search for properties and experience the key functionalities of a vacation rental platform in a seamless and secure manner.
 
 ## 🛠️ Technologies & Packages Used:
