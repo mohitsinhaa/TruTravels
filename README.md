@@ -57,3 +57,22 @@ This StockXpert project showcases my proficiency in full-stack web development, 
 * Multer for File Uploads
 * Passport Local for Local Authentication
 * Passport Local Mongoose for Mongoose-Specific Authentication
+
+## Screenshots
+
+![Screenshot (52)](https://github.com/user-attachments/assets/eb0474cf-970c-4fab-9f1d-95ab82c17030)
+![Screenshot (53)](https://github.com/user-attachments/assets/6f9155e3-a310-4357-9ca6-fe909b263079)
+![Screenshot (54)](https://github.com/user-attachments/assets/0c0d29dd-cb0e-4069-a31f-02e8c1d01e41)
+![Screenshot (55)](https://github.com/user-attachments/assets/68fb55f4-ec9b-4eac-a6aa-015773ceb490)
+![Screenshot (56)](https://github.com/user-attachments/assets/e96e4c67-5ddd-45a6-9520-59bcc46bc859)
+![Screenshot (57)](https://github.com/user-attachments/assets/af60585a-a52b-44d7-877f-083042097ccf)
+![Screenshot (58)](https://github.com/user-attachments/assets/01b3be54-aa8c-4c69-b249-1d30d3821aab)
+![Screenshot (59)](https://github.com/user-attachments/assets/56fa1d5a-bba4-4b81-acb5-a1975e54ab2b)
+![Screenshot (60)](https://github.com/user-attachments/assets/f4f21570-59fc-4fc5-97a8-6d2de284df92)
+![Screenshot (61)](https://github.com/user-attachments/assets/ae5fc086-a967-4cab-a83a-128e5f2e8d3b)
+
+
+
+
+
+
