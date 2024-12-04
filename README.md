@@ -68,11 +68,8 @@ This StockXpert project showcases my proficiency in full-stack web development, 
 ![Screenshot (57)](https://github.com/user-attachments/assets/af60585a-a52b-44d7-877f-083042097ccf)
 ![Screenshot (58)](https://github.com/user-attachments/assets/01b3be54-aa8c-4c69-b249-1d30d3821aab)
 ![Screenshot (59)](https://github.com/user-attachments/assets/56fa1d5a-bba4-4b81-acb5-a1975e54ab2b)
-![Screenshot (60)](https://github.com/user-attachments/assets/f4f21570-59fc-4fc5-97a8-6d2de284df92)
-![Screenshot (61)](https://github.com/user-attachments/assets/ae5fc086-a967-4cab-a83a-128e5f2e8d3b)
-
-
-
+![Screenshot (60)](https://github.com/user-attachments/assets/f73a2f3e-a8e4-4a16-994f-67ad5d2b9616)
+![Screenshot (61)](https://github.com/user-attachments/assets/45d0e83e-7d5a-4c21-bef7-7b82aaaa196f)
 
 
 
