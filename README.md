@@ -18,6 +18,7 @@ TruTravels is a Full Stack Web Development project designed to facilitate the br
 
 ### Deployment 
 The TruTravels project has been deployed using Render, connected with MongoDB Atlas for database management.
+Note - The website takes a few seconds to render because it's hosted on a public server.
 * Live Application: https://trutravels.onrender.com/
 ### Screenshots
 ![Screenshot (52)](https://github.com/user-attachments/assets/eb0474cf-970c-4fab-9f1d-95ab82c17030)
