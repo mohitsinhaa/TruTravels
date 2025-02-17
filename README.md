@@ -1,7 +1,7 @@
-## TruTravels - Project Summary
+### TruTravels - Project Summary
 TruTravels is a Full Stack Web Development project designed to facilitate the browsing and booking of vacation accommodations, including houses, villas, and farmhouses. This platform allows users to add their own properties to the listing. 
 
-## Technologies Used:
+### Technologies Used:
 * Frontend: HTML, CSS, JavaScript, Bootstrap, EJS
 * Backend: Node.js, Express.js
 * Database: MongoDB Atlas
@@ -16,12 +16,12 @@ TruTravels is a Full Stack Web Development project designed to facilitate the br
 - **EJS Templates**: Used for modular routing and dynamic views.
 - **Cookies and Sessions**: Implemented for user-friendly authentication.
 
-## Deployment 
+### Deployment 
 The TruTravels project has been deployed using Render, connected with MongoDB Atlas for database management.
 * Live Application: https://trutravels.onrender.com/
-## Authors 
+### Authors 
 * @mohitsinhaa <br />
-## Screenshots
+### Screenshots
 ![Screenshot (52)](https://github.com/user-attachments/assets/eb0474cf-970c-4fab-9f1d-95ab82c17030)
 ![Screenshot (53)](https://github.com/user-attachments/assets/6f9155e3-a310-4357-9ca6-fe909b263079)
 ![Screenshot (54)](https://github.com/user-attachments/assets/0c0d29dd-cb0e-4069-a31f-02e8c1d01e41)
